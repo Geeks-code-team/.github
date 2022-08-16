@@ -16,7 +16,7 @@ Geeks code team is a ✨special team ✨ work with providing the simplest soluti
 
 ## 🛠 Tech Stack
 
-**Client:** React, Redux, Context, NextJS, React Native, TailwindCSS
+**Client:** React, Redux, Context, NextJS, React Native, TailwindCSS, Vue
 
 **Server:** Node, Express, PHP, Laravel
 
